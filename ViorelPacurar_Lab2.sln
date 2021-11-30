@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViorelPacurar_Lab2", "ViorelPacurar_Lab2.csproj", "{C768DE80-A9ED-4291-9057-CA78231B6063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C768DE80-A9ED-4291-9057-CA78231B6063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C768DE80-A9ED-4291-9057-CA78231B6063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C768DE80-A9ED-4291-9057-CA78231B6063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C768DE80-A9ED-4291-9057-CA78231B6063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564D54B4-4FD5-4649-B9DB-58F1DD148C1E}
+	EndGlobalSection
+EndGlobal
